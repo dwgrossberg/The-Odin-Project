@@ -1,3 +1,5 @@
 # the-odin-project
 Learning web dev - projects
-http://www.theodinproject.com 
+http://www.theodinproject.com
+
+Google Homepage and Search Results
