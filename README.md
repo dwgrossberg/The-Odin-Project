@@ -2,4 +2,3 @@
 Learning web dev - projects
 http://www.theodinproject.com
 
-Google Homepage and Search Results
